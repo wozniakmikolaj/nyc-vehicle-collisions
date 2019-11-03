@@ -13,6 +13,6 @@ The full dataset can be found [here](https://data.cityofnewyork.us/Public-Safety
 For the sake of readability the project is divided into three phases: 
 1. Sampling the original dataset. 
 2. Cleaning the sample. 
-3. Exploratory analysis of the clean data.
+3. Exploratory analysis of the data.
 
-The datasets can be found in the [data]() folder in three versions: raw (downloaded from source), sampled (sample of the raw dataset) and cleaned (clean sample of the dataset).
+The datasets can be found in the [data]() folder in four versions: raw (downloaded from source), sampled (sample of the raw dataset), geocoded(slice of sampled data with additional geolocation info) and cleaned (clean sample of the dataset).
