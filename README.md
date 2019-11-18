@@ -30,4 +30,4 @@ For the sake of readability the project is divided into three phases:
 
 3. Exploratory analysis of the data.
 
-The datasets can be found in the [data]() folder in four versions: raw (downloaded from source), sampled (sample of the raw dataset), geocoded(slice of sampled data with additional geolocation info) and cleaned (clean sample of the dataset).
+The datasets can be found in the [data](https://github.com/wozniakmikolaj/nyc-vehicle-collisions/tree/master/data) folder in four versions: raw (downloaded from source), sampled (sample of the raw dataset), geocoded(slice of sampled data with additional geolocation info) and cleaned (clean sample of the dataset). Furthermore, [geo_data](https://github.com/wozniakmikolaj/nyc-vehicle-collisions/tree/master/geo_data) folder was created where data used for geo plotting is located.
